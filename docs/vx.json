@@ -1,0 +1,71 @@
+{
+    "created_time": "2024-06-17T05:42:28Z",
+    "files": [
+        {
+            "attachment_folder": "440614109288799",
+            "created_time": "2024-04-11T03:05:26Z",
+            "id": "681",
+            "modified_time": "2024-06-14T03:46:27Z",
+            "name": "_sidebar.md",
+            "signature": "8635323004943580292",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "477573873607615",
+            "created_time": "2024-02-26T12:12:31Z",
+            "id": "674",
+            "modified_time": "2024-06-17T04:26:23Z",
+            "name": "Exercise 0 - Getting Started - Preparation.md",
+            "signature": "784285915008443794",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-02-26T12:12:28Z",
+            "id": "675",
+            "modified_time": "2024-05-26T10:41:35Z",
+            "name": "Exercise 1 - Create a  New Project and Create a Data Model.md",
+            "signature": "5546498803309979026",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-04-11T03:26:00Z",
+            "id": "676",
+            "modified_time": "2024-05-28T11:31:15Z",
+            "name": "Exercise 2 - Refer to an SAP S4HANA Cloud Service in Your Data Model.md",
+            "signature": "8223662518609618322",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-04-11T07:10:15Z",
+            "id": "679",
+            "modified_time": "2024-06-14T02:16:50Z",
+            "name": "Exercise 3 - Create a List Report UI Application and Deploy Your Application.md",
+            "signature": "8927815552021013906",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "76976301683066",
+            "created_time": "2024-04-11T03:08:51Z",
+            "id": "680",
+            "modified_time": "2024-06-14T03:54:20Z",
+            "name": "README.md",
+            "signature": "2711912562243124351",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "682",
+    "modified_time": "2024-06-17T05:42:28Z",
+    "signature": "8635323004943846596",
+    "version": 3
+}
