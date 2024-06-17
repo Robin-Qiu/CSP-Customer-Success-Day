@@ -4,7 +4,6 @@
 
 <h2 style="text-align: center;"># Customer Success Day #</h2>
 
-
 ---
 
 * [Introduction](/)
