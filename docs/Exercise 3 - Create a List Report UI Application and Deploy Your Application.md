@@ -269,6 +269,35 @@ We added application logic to the application.
 
 In this section, we will deploy the project to the Business Technology Platform (BTP), Cloud Foundry environment.
 
+##### Mapping HANA Cloud instance to your Cloud Foundry subaccount
+
+1. Find your HANA Cloud instance and Click **Manage Configuration** to configure.
+
+![](vx_images/183232775622970.png)
+
+2. Open **Instance Mapping** tab and fill in the **Environment Type** and **Environment Instance ID** (the ID can be found on subaccount overview page).
+
+![](vx_images/8181946510880.png)
+
+
+![](vx_images/368342505762965.png)
+
+
+3. Click **Save Changes with Restart**
+
+![](vx_images/137163132708475.png)
+
+##### Check the HANA Cloud Status
+
+Open the HANA Cloud Central to check the instance status. 
+You can click **Start** under Actions to activate the instance and it may take 5 - 8 minutes.
+
+![](vx_images/524872196160494.png)
+
+Make sure the instance status becomes **Running**, then you'll be ready to deploy the application.
+
+![](vx_images/253452485057559.png)
+
 ##### Deploy the project to BTP
 
 We already completed the environment set up for you. This is what we did:
@@ -301,35 +330,26 @@ Expand the **Deploy** section, select **Deploy incident_managementXXX**, and the
 
 A build starts and the **Cloud Foundry Sign In and Targets editor** opens.
 
-- Enter the following Cloud Foundry endpoint **https://api.cf.eu10-004.hana.ondemand.com** .<br>
-  **Important**: Sometimes, the system recommends the **https://api.cf.eu10.hana.ondemand.com** URL. Make sure you manually enter the **-004** part behind **eu10**.<br>
+- Enter the following Cloud Foundry endpoint .<br>
 
-- Choose **SSO Passcode** as the authentication method.<br>
 
-- Press the **Open a new browser page to generate your SSO passcode** link.<be>
+- Choose **Credentials** as the authentication method.<br>
 
-![](vx_images/173655056885563.png)
+- Input your BTP credential to sign in<be>
 
-- Next, provide the value **lcap-platform** and choose **Sign in with Alternative Identity Provider**.
-![](vx_images/347285589157171.png)
+![](vx_images/111075989425645.png)
 
-This opens a new page, with a temporary passcode created for your user.
-
-- Press the button on the right of the password to copy it to the clipboard as indicated here:
-
-![](vx_images/529814230110584.png)
-
-- Paste the copied passcode into the field **Enter your SSO Passcode** on the **Cloud Foundry Sign In and Targets editor** page.
 - Click **Sign In**.
 
 After a couple of seconds, the following page opens:
 
-![](vx_images/176835270241710.png)
+
+![](vx_images/66415218309323.png)
 
 In this page:
 
-- Choose the the organization.
-- Choose the space.
+- Choose the the **organization**.
+- Choose the **space**.
 - Click **Apply**.
 
 The deployment starts and progress can be tracked in the Terminal.

@@ -67,7 +67,7 @@ In the following exercise, we will use the new high productivity tools in SAP Bu
 
 ##### Import CodeList to the Data Model
 
-In the storyboard, click on the **+** button under the **Data Models** tile, and input the **Namespace** ( ie.: **iac_adoptionlab**** ). click **Create** to open the CDS Graphical Modeler.
+In the storyboard, click on the **+** button under the **Data Models** tile, and input the **Namespace** ( ie.: **iac_adoptionlab** ). click **Create** to open the CDS Graphical Modeler.
 ![](vx_images/545591882827217.png)
 From the CDS Graphical Modeler editor's **double click** on the empty canvas, or from the top right toolbar click on the **Open Property Sheet** icon.
 ![](vx_images/27463514921357.png)
