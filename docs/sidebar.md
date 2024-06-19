@@ -22,4 +22,4 @@
 
 ---
 
-[Return Home >>](/)
+[>> Return Homepage](/)
