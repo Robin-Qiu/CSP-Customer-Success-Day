@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-
+![](vx_images/48932198435089.png)
 
 <h2 style="text-align: center;"># Customer Success Day #</h2>
 
