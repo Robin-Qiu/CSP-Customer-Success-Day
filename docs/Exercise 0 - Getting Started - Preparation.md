@@ -1,3 +1,5 @@
+<div class="draftWatermark"></div>
+
 # Getting Started - Preparation
 
 
