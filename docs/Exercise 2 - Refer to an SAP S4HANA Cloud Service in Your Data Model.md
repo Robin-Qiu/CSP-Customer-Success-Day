@@ -1,6 +1,7 @@
 <div class="draftWatermark"></div>
 
 # Exercise 2 - Refer to an SAP S/4HANA Cloud Service in Your Data Model
+
 ---
 
 In this exercise, we will add an SAP S/4HANA Cloud service, the Business Partner, to our project and associate it with our incident management model.

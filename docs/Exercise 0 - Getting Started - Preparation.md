@@ -4,6 +4,7 @@
 
 
 ---
+
 Let's start the exercise and check if everything is ready to go.
 Please make sure you have completed all the necessary prerequisites listed below. If not, please raise your voice so that we can assist you early in the session.
 

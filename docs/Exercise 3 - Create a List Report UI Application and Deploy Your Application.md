@@ -1,6 +1,7 @@
 <div class="draftWatermark"></div>
 
 # Exercise 3 - Create a List Report UI Application and Deploy Your Application
+
 ---
 
 After creating a service with several entities, we will now create a list report with an object page, based on the SAP Fiori elements technology.
