@@ -1,4 +1,4 @@
-<div class="draftWatermark">
+<div class="draftWatermark"></div>
 
 
 # Speed Up Clean Core Extension with BTP Build Code
